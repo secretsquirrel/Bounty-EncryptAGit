@@ -22,7 +22,7 @@ This [commit](https://github.com/secretsquirrel/Bounty-EncryptAGit/commit/954d2a
 
 Each note increases in size thereby potentially making the challenge harder. Or is it easier? 😉
 
-The salt and password are the same for all of the commits. 😱
+The salt for KDF and password are the same for all of the commits. 😱
 
 However, the salt and password are each complex.
 
@@ -67,5 +67,5 @@ Best of Luck! I'm looking forward to seeing the outcome of this.
 
 ## Hints
 
-* https://www.youtube.com/watch?v=v0IsYNDMV7A
+* https://www.youtube.com/watch?v=v0IsYNDMV7A 
 
