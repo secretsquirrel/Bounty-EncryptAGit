@@ -9,8 +9,6 @@ Can you crack it?
 
 I've been dog fooding [encryptAgit](https://github.com/secretsquirrel/encryptAgit) and it's open source. 
 
-I think it could be probable to decrypt some portion of the encrypted notes (first block for example), based on the number of commits available for analysis.
-
 So, a bounty seemed appropriate. Yes, this is self funded.
 
 
