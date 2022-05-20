@@ -14,7 +14,7 @@ So, a bounty seemed appropriate. Yes, this is self funded.
 
 ## Bounties
 
-Each reward is given out *only once* to the first person or team that can provide a writeup of the process to decrypt each note.
+Each reward is given out *only once* to the first person or team that can provide a writeup of the process to successfully decrypt each note.
 
 The encrypted_git.json file and associated git history was created with encryptAgit==0.1.0; download [here](https://github.com/secretsquirrel/encryptAgit/tree/790b5291da8e016006ea8fb55889605506c22b31) or via `pip3 install encryptAgit==0.1.0`.
 
