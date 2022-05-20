@@ -14,7 +14,9 @@ So, a bounty seemed appropriate. Yes, this is self funded.
 
 ## Bounties
 
-Each reward is given out *only once* to the first person or team that can provide a writeup of the process to successfully decrypt each note.
+Each reward is given out *only once* to the first person or team that can provide a writeup of the process to successfully decrypt each note and actually decrypt each note.
+
+ASIDE: If you tell me that all you need is the correct salt/password combo, then provide those two items and tell me how you derived them; whether bruce forcing or figuring out I like Star Wars movies and getting lucky. If you were able to do a padding oracle attack of sorts, provide the code used so I can verify that was the method used to decrypt the files.
 
 The encrypted_git.json file and associated git history was created with encryptAgit==0.1.0; download [here](https://github.com/secretsquirrel/encryptAgit/tree/790b5291da8e016006ea8fb55889605506c22b31) or via `pip3 install encryptAgit==0.1.0`.
 
