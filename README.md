@@ -56,9 +56,9 @@ Payment will be made via Vemno or Paypal - whichever is still in business.
 
 ## Submissions
 
-Email the.midnite[.]runr[at]gmail[dot]com.
+Email the.midnite[.]runr[at]gmail[dot]com. Email Subject: `EncryptAGit Bounty`
 
-Only text entries will be accepted. No PDFs, word documents, STL files, encrypted zip files, etc.. 
+Only text entries will be accepted. No PDFs, word documents, STL files, encrypted zip files, photos, etc.. 
 
 Attemping to or successfully hacking me, while hilarious, is a disqualifying event. 
 
